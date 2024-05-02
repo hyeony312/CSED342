@@ -1,0 +1,19 @@
+extraCredit: 0
+fatalError: false
+maxExtraCredit: 0
+maxTotalPoints: 1
+messages: []
+mode: auto
+parts:
+- description: simple test case with small maze
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 1
+  messages:
+  - Expected '6', but got '3'
+  - Expected '12', but got '6'
+  - Expected '12', but got '7'
+  name: 2a-2-basic
+  points: 0
+  seconds: 0
+totalPoints: 0
